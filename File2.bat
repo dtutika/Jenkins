@@ -1,1 +1,1 @@
-Echo building the project %data% : %time%
+Echo building the project %date% : %time%
